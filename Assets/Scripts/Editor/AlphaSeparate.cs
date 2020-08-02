@@ -457,7 +457,7 @@ public class AlphaSeparate
                 // 计算settings
                 // 0位：packed。1表示packed，0表示不packed
                 // 1位：SpritePackingMode。0表示tight，1表示rectangle
-                // 2-3位：SpritePackingRotation。0表示不旋转，1表示水平翻转，2表示竖直翻转，3表示180度旋转，4表示90度旋转
+                // 2-5位：SpritePackingRotation。0表示不旋转，1表示水平翻转，2表示竖直翻转，3表示180度旋转，4表示90度旋转
                 // 6位：SpriteMeshType。0表示full rect，1表示tight
                 // 67 = SpriteMeshType(tight) + SpritePackingMode(rectangle) + packed
                 var settingsRaw = 67; 
