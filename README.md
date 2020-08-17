@@ -1,13 +1,13 @@
 # UnityAlphaSeparateDemo
 
-## Introduction
-Separate alpha channel for textures, no need to override Image/SpriteRenderer component.
+## 简介
+为图集纹理分离alpha通道，不需要修改渲染组件即可生效。
 
-## Run
+## 运行
 - File -> Build Settings... -> Android -> Switch Platform
 - Tools -> Build Asset Bundles
 - Play
 
-## Reference
-[Reference](https://zhuanlan.zhihu.com/p/32674470)
+## 详细说明
+[https://indienova.com/indie-game-development/unity-alpha-separate/](https://indienova.com/indie-game-development/unity-alpha-separate/)
 
